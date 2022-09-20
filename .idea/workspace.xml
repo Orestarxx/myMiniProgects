@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac6c7bc7-415f-40af-895d-232c6e051f19" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football/PremierLeague/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football/PremierLeague/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football/PremierLeague/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football/pictures/iconOfPremierLeague.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/football/pictures/teamStadium/aston-villa-fc-birmingham.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/untitled1.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ESRTV1wjPNdzqmgyUi39clNY2Y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/untitled1/football/pictures&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\football\pictures" />
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\PSGFanSite\pictures" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\football\pictures" />
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\football\pictures\teamStadium" />
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\PSGFanSite\PremierLeague" />
+      <recent name="C:\Users\Admin\IdeaProjects\untitled1\PSGFanSite\pictures" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6c7bc7-415f-40af-895d-232c6e051f19" name="Changes" comment="" />
+      <created>1662587006917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662587006917</updated>
+      <workItem from="1662587008511" duration="5985000" />
+      <workItem from="1662630705943" duration="10303000" />
+      <workItem from="1662657681581" duration="14668000" />
+      <workItem from="1662672580685" duration="113000" />
+      <workItem from="1662672769006" duration="16000" />
+      <workItem from="1662676265191" duration="8000" />
+      <workItem from="1662743678669" duration="1344000" />
+      <workItem from="1662757645561" duration="5434000" />
+      <workItem from="1662807406377" duration="26009000" />
+      <workItem from="1662855722060" duration="2633000" />
+      <workItem from="1662900390320" duration="774000" />
+      <workItem from="1662919657692" duration="3296000" />
+      <workItem from="1662931596365" duration="11416000" />
+      <workItem from="1662983826640" duration="3882000" />
+      <workItem from="1662995828868" duration="10000" />
+      <workItem from="1663101225014" duration="200000" />
+      <workItem from="1663330623637" duration="1278000" />
+      <workItem from="1663618779177" duration="987000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
